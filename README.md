@@ -1,7 +1,7 @@
 # LabAssignments
 Lab Assignments
 
-**Operating System Lab Assignment **
+**Operating System Lab Assignment**
 
 1. P1 - Reverse a number
 2. P2 - Perform arithmatic Operations
@@ -26,7 +26,7 @@ Lab Assignments
 6. Lab06 - Implementation of fuzzy set(Cpp)
 
 
-**Computer Network Lab Assignments: **
+**Computer Network Lab Assignments:**
 
 1. Lab01 - Write a C program to implement CRC algorithm using Client Server Communication.
 2. Lab02 - Write a C program to Implement Client Server Communication Using TCP/UDP Socket
@@ -40,7 +40,7 @@ Lab Assignments
 10. Lab10 - Question - Link State Routing
 
 
-**Computer Organization And Architecture Lab Assignments: **
+**Computer Organization And Architecture Lab Assignments:**
 
 1. Lab01 - Write ALP to display HELLO using 09h function of int 21h & explain 09h, 4ch functions of int 21h.
 2. Lab02 - Write an ALP program to accept 2 single digit number by using 01h INT21h function and display its addition using 02h INT21h function
