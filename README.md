@@ -1,7 +1,7 @@
 # LabAssignments
 Lab Assignments
 
-**Operating System Lab Assignment**
+**Operating System Lab Assignment (Shell Scripting)**
 
 1. P1 - Reverse a number
 2. P2 - Perform arithmatic Operations
