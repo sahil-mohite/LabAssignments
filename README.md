@@ -2,7 +2,6 @@
 Lab Assignments
 
 **Operating System Lab Assignment**
-
 P1 - Reverse a number
 P2 - Perform arithmatic Operations
 P3 - Check file type and it's permission
